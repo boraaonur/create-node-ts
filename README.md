@@ -15,4 +15,4 @@ Or if the above doesn't work:
 npm exec boraaonur/create-node-ts
 ```
 
-Feel free to fork this repository if you'd like to make changes tailored to your needs.# create-node-ts
+Feel free to fork this repository if you'd like to make changes tailored to your needs.
